@@ -1,0 +1,9 @@
+Vídeo Explicativo — CNN + Transfer Learning (DenseNet121)
+
+Link: https://youtu.be/S2ZtBMpjeqw
+
+Conteúdo abordado:
+- Backbone escolhido (DenseNet121) e justificativa
+- Estratégia de fine-tuning (camadas descongeladas, learning rates)
+- Principais resultados (acurácia, curvas de treino/validação)
+- Dificuldades encontradas e como foram resolvidas
