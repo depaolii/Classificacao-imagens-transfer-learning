@@ -1,18 +1,6 @@
 # Classificação de Imagens com Transfer Learning
 
-Classificador automático de **11 órgãos do corpo humano** em imagens de CT scan, utilizando Transfer Learning com DenseNet121 e o dataset OrganAMNIST (MedMNIST).
-
----
-
-## Grupo
-
-| Nome | RM |
-|---|---|
-| Rodrigo Ferreira Nery | RM568246 |
-| Marcello De Paoli | RM567562 |
-| Guilherme Fernandes | RM567389 |
-| João Pedro Nunes | RM567318 |
-| Guilherme Nakamura | RM567460 |
+Classificador automático de **11 órgãos do corpo humano** em imagens de CT scan, utilizando Transfer Learning com DenseNet121 e o dataset OrganAMNIST (MedMNIST) + VÍDEO EXPLICATIVO de 5min
 
 ---
 
