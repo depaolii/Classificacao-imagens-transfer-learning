@@ -75,11 +75,10 @@ O **DenseNet121** foi escolhido pelos seguintes motivos:
 /
 ├── CNN_Transfer_learning.ipynb     # Notebook principal (Google Colab)
 ├── README.md                       # Este arquivo
-├── curva_accuracy_fase1.png        # Curva de Accuracy — Fase 1
-├── curva_loss_fase1.png            # Curva de Loss — Fase 1
+├── curva_accuracy.png              # Curva de Accuracy — Fase 1
+├── curva_loss.png                  # Curva de Loss — Fase 1
 ├── curva_accuracy_finetune.png     # Curva de Accuracy — Fine-tuning
 ├── curva_loss_finetune.png         # Curva de Loss — Fine-tuning
-├── organ_densenet121.keras         # Modelo treinado salvo
 └── link_video.txt                  # Link do vídeo explicativo (YouTube)
 ```
 
